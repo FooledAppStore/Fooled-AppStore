@@ -1,8 +1,7 @@
 # Fooled-AppStore
 Record Apps that violate the Apple Developer Program License Agreemen but are still online
 
-
-
+These apps are more than just duplicate apps, and to a greater extent organized fraud. When the app goes live, it jumps to the lottery or gambling site through background control.
 
 
 2019-02-28 update
